@@ -1,0 +1,6 @@
+1. You create a new repository.  You need to do it so you can then add commits to it.
+2. The staging area is different in that it is an intermediate stage.  I think it offers the person coding to double check what they want to add to the repository before actually adding it.
+3. You can compare what you have in the staging area to what you have either in your working directory or your respository, and make sure you only have one commit per logical change.
+4. They help by showing you which commits are on which branch and thus big you a big picture of what you have for your entire project currently.
+5. The result is that all the changes made are added to the merged file.  It is represented with arrows to both previous branches as parents because the merged file contains commits from both of the branches.
+6. Automatically merging can be good because you do not have to go through the fuss of merging branches together yourself.  However, it can be bad if you are experimenting something that could go wrong and it automatically merges.  Doing merges manually can be annoying in that you have to do them yourself, but it is good because you have full control over whether you want branches to merge together or not.
