@@ -1,3 +1,4 @@
 1. Either when you are working on a project on multiple devices or when you are collaborating on a project with others. (when more than one device is involved.)
 2. There might be conflicts that should be solved.
-3. Forking is for tranferring projects from GitHub to GitHub.  Branch is referring to different branches in your own repository.  Clone is for transferring stuff from GitHub to your local device.  You would use different commands when you are trying to do the different things listed previously.
+3. Forking is for transferring projects from GitHub to GitHub.  Branch is referring to different branches in your own repository.  Clone is for transferring stuff from GitHub to your local device.  You would use different commands when you are trying to do the different things listed previously.
+4. So that you know if you are out of sync, ahead, behind, etc.
