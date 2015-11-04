@@ -3,3 +3,4 @@
 3. Forking is for transferring projects from GitHub to GitHub.  Branch is referring to different branches in your own repository.  Clone is for transferring stuff from GitHub to your local device.  You would use different commands when you are trying to do the different things listed previously.
 4. So that you know if you are out of sync, ahead, behind, etc.
 5. You can collaborate by sending each other the file.  It would be easier because all it takes is sending and receiving the same file, but harder because you cannot keep track of the changes.
+6. When you don’t have access to the master branch or when you are testing something out.  It can be good because your edits will not affect the master branch if something goes wrong, but it can be bad because doing all the merging can be a waste of time when you could have just changed the master branch.
